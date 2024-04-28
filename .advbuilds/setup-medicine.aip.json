@@ -1,0 +1,16 @@
+{
+  "MainExe": "HospitalMedicine.exe",
+  "ProductDetail": {
+    "ProductName": "DHG.Hospital Medicine"
+  },
+  "AdvancedInstallerShortcut": {
+    "Name": "DHG.Hospital Medicine",
+    "Target": "APPDIR\\HospitalMedicine.exe",
+    "InDirectories": ["DesktopFolder", "StartMenuFolder\\DHG Pharma"],
+    "PathIcon": "Logo.ico"
+  },
+  "IconInControlPanel": {
+    "IsSetIcon": true,
+    "PathIcon": "Logo.ico"
+  }
+}
