@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0618.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406180-NasDHSolutions.json)
+## 3.24.0625.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406250-NasDHSolutions.json)
+- ✨: Yêu cầu - Medicine bổ sung trường thông tin thầu
+- ![](https://i.imgur.com/PfmVmQe.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/415
+## [v.3.24.0618.0]()
 - 🐛: Hiệu chỉnh báo cáo sử dụng thuốc, không thống kê phần xuất từ kho lẻ xuống tủ trực vào cột xuất khác.
 - ☑: https://github.com/dh-hos/dhg.hospitalmedicine/issues/48
 
