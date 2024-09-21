@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0625.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406250-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406250-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32406250-NasDHSolutions.json)
+## 3.24.0921.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409210-NasDHSolutions.json)
+- 🐛: **💼**: **_Lỗi - Bảng kê xuất tổng hợp hiển thị sai đơn giá xuất_**
+- 🐛: ***Chức năng trả nhà cung cấp***: lấy giavat làm Đơn giá khi in ![](https://i.imgur.com/NJl17HI.png) ![](https://i.imgur.com/vAlmoVX.png)
+- 🐛: ***Chức năng tổng hợp xuất, lấy giavat làm Đơn giá đối với loại xuất trả nhà cung cấp***: ![](https://i.imgur.com/oZ67LCp.png) 
+- ☑: https://github.com/dh-hos/dhg.hospitalmedicine/issues/50
+## [v.3.24.0625.0]()
 - ✨: Yêu cầu - Medicine bổ sung trường thông tin thầu
 - ![](https://i.imgur.com/PfmVmQe.png)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/415
