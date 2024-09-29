@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.0928.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409280-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409280-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409280-NasDHSolutions.json)
+## 3.24.0929.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32409290-NasDHSolutions.json)
+
+- ✨: Form `[Xuất khác]`: Lưu/Hiển thị/In cột `[Thành tiền]` theo `[Giá VAT]` hoặc `[Giá xuất]` phụ thuộc vào tham số `[xuatkhac.thanhtien]`.
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/653
+## [v.3.24.0928.0]()
 
 - ✨: Bổ sung chức năng in hàng vượt định mức theo mẫu tự thiết kế. Riêng PK Hồng Đức có thể sử dụng mẫu này để khỏi phải tự thiết kế lại mẫu từ đầu: [XRptBCTDinhMucTonKho_HongDuc.zip](https://github.com/user-attachments/files/17173782/XRptBCTDinhMucTonKho_HongDuc.zip)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/651
