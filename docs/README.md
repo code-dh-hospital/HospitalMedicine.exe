@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue) </div>
 
 #
-## 3.24.1006.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32410060-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32410060-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32410060-NasDHSolutions.json)
+## 3.24.1013.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32410130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32410130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalMedicineexe%2F32410130-NasDHSolutions.json)
+
+- ✨: Thực hiện - Xử lý nghiệp các loại xuất dựa vào trạng thái cân kho đối với các loại xuất: Xuất khoa phòng, Xuất khác.
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/670
+## [v.3.24.1006.0]()
 
 - ✨: 💼 Medcine, SecondStore Thực hiện - Lưu trạng thái đã cân kho vào bảng tạm.
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/667
