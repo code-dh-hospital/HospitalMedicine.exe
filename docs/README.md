@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.24.1130.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32411302-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32411302-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32411302-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Theo dõi dữ liệu tủ trực ![](https://i.imgur.com/YCRL8N4.png) ![](https://i.imgur.com/HHOeWf5.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/62
+
+## [v.3.24.1130.1]()
+- 🐛: Lỗi - Theo dõi dữ liệu tủ trực ![](https://i.imgur.com/YCRL8N4.png) ![](https://i.imgur.com/HHOeWf5.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/62
+
+## [v.3.24.1130.0]()
+- 🐛: Lỗi - Theo dõi dữ liệu tủ trực ![](https://i.imgur.com/YCRL8N4.png) ![](https://i.imgur.com/HHOeWf5.png)
+- ☑: https://github.com/dhhiswork/Loi/issues/62
+
 ## [v.3.24.1112.1]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32411121-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32411121-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32411121-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chưa ghi nhận trạng thái da_can_kho đối với toa tạm kho tủ trực khi thực hiện [Cập nhật xuất] tủ trực.
