@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.24.1215.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412150-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tách mẫu tự thiết kế phiếu lĩnh thuốc `Nghiện` và mẫu phiếu lĩnh thuốc `Hướng thần/Tiền chất` đối với tham số `bcnghienht = 2`. Bổ sung para `tieude` và `tieudephu` cho mỗi phiếu.
+![image](https://github.com/user-attachments/assets/b517164a-bf8c-48b1-ade7-ef6e91ed7a1b)
+![image](https://github.com/user-attachments/assets/b26fffa2-e0a0-4fda-9556-821b51a20397)
+![image](https://github.com/user-attachments/assets/13b7687b-10b5-4feb-b188-a5ee3408a635)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/46
+
 ## [v.3.24.1214.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412140-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412140-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Chức năng `[Cập nhật phiếu Chưa lĩnh - Chưa trả]`: Xử lý nghiệp vụ đối với các loại xuất toa người bệnh (loaixn=xbb) có sử dụng tạm xuất (tamxuat). Những hàng hóa có thay đổi khi xử lý, sẽ cập nhật giá trị `current.tkdatatemp.da_can_kho = 1`.
