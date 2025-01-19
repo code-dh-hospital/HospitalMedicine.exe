@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.25.0119.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501190-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng quản lý và báo cáo/thống kê hàng hóa tiện ích. Theo [Mô tả [DỰ ÁN] tách hàng hóa [Tiện ích] kho nhà thuốc](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/M%C3%B4%20t%E1%BA%A3%20%5BD%E1%BB%B0%20%C3%81N%5D%20t%C3%A1ch%20h%C3%A0ng%20h%C3%B3a%20%5BTi%E1%BB%87n%20%C3%ADch%5D%20kho%20nh%C3%A0%20thu%E1%BB%91c.md)
+![](https://i.imgur.com/PSRzIdx.png)
+![](https://i.imgur.com/aKyZnKK.png)
+![](https://i.imgur.com/Zy10X1W.png)
+![](https://i.imgur.com/NI7cKWE.png)
+![](https://i.imgur.com/lMk5sIW.png)
+![](https://i.imgur.com/i106ch4.png)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/3
+
 ## [v.3.24.1230.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412300-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32412300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Yêu cầu tích hợp với hệ thống MISA - PHÚC GIA KHANG (xử lý lại)
 - ☑: https://github.com/dhhiswork/YeuCau/issues/65
