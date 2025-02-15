@@ -6,6 +6,31 @@
 
 #
 
+## [v.3.25.0215.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502150-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung mẫu in tự thiết kế chức năng tổng hợp phiếu trả toa nội trú.
+➡️ Phiếu tự thiết kế trang in [Tổng hợp phiếu trả]
+![](https://i.imgur.com/ZPE2FG8.png)
+➡️ Phiếu tự thiết kế trang in [Tổng hợp phiếu trả Nghiện/Hướng thần/Tiền chất]
+![](https://i.imgur.com/e6ikk7q.png)
+➡️ Kết quả [Phiếu trả lại thuốc]
+![](https://i.imgur.com/rRTGngd.png)
+➡️ Kết quả [Phiếu trả lại máu]
+![](https://i.imgur.com/ja55dzy.png)
+➡️ Kết quả [Phiếu trả lại VTYT tiêu hao]
+![](https://i.imgur.com/B4obAx7.png)
+➡️ Kết quả [Phiếu trả lại hóa chất]
+![](https://i.imgur.com/bCvTc4d.png)
+➡️ Kết quả [Phiếu trả lại dịch truyền]
+![](https://i.imgur.com/8Pgl1WZ.png)
+➡️ Kết quả [Phiếu trả lại dược liệu]
+![](https://i.imgur.com/HQPtKYu.png)
+➡️ Kết quả [Phiếu trả lại thuốc gây nghiện]
+![](https://i.imgur.com/VHUXnql.png)
+➡️ Kết quả [Phiếu trả lại thuốc hướng tâm thần (tiền chất)]
+![](https://i.imgur.com/OlRZn6L.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/52
+
 ## [v.3.25.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501220-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32501220-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Form [Xuất kho] => [Xuất bán lẻ]: Chức năng [In phiếu thu] chưa tách phiếu hàng hóa tiện ích. Lưu ý: tham số `ntbanle.sobanin`
