@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502260-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Form `[Xuất kho] => [Xuất kho lẻ]`: Sửa lỗi in phiếu (ra máy in) không khóa phiếu.
+![](https://i.imgur.com/Tli3ofU.png)
+- 🐛: Form `Nhập kho] => [Nhập chứng từ]`: Sửa lỗi cột `[Mã số]` không tự ghép các giá trị sau thành 1 chuỗi khi in.
+![](https://i.imgur.com/Bgnufai.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/93
+
 ## [v.3.25.0225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502250-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32502250-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Tại form `[Tiện ích] => [Biên bản kiểm nhập]` bổ sung control hỗ trợ người dùng lọc các chứng từ có mặt hàng `[Tiện ích]`. Theo [Mô tả [DỰ ÁN] tách hàng hóa [Tiện ích] kho nhà thuốc](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/M%C3%B4%20t%E1%BA%A3%20%5BD%E1%BB%B0%20%C3%81N%5D%20t%C3%A1ch%20h%C3%A0ng%20h%C3%B3a%20%5BTi%E1%BB%87n%20%C3%ADch%5D%20kho%20nh%C3%A0%20thu%E1%BB%91c.md).
