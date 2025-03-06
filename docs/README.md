@@ -6,6 +6,36 @@
 
 #
 
+## [v.3.25.0306.5]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503065-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503065-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503065-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Bổ sung Form gửi chứng từ nhập kho hàng loạt
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+![](https://i.imgur.com/C5LQHTi.png)
+
+## [v.3.25.0306.4]()
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Bổ sung Form gửi chứng từ nhập kho hàng loạt
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+![](https://i.imgur.com/C5LQHTi.png)
+
+## [v.3.25.0306.3]()
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Bổ sung Form gửi chứng từ nhập kho hàng loạt
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+![](https://i.imgur.com/C5LQHTi.png)
+
+## [v.3.25.0306.2]()
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Bổ sung Form gửi chứng từ nhập kho hàng loạt
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+![](https://i.imgur.com/C5LQHTi.png)
+
+## [v.3.25.0306.1]()
+- ✨: Tích hợp với hệ thống MISA - PHÚC GIA KHANG - Bổ sung Form gửi chứng từ nhập kho hàng loạt
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/2
+
+![](https://i.imgur.com/C5LQHTi.png)
+
 ## [v.3.25.0303.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503030-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32503030-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Form `[BC sử dụng thuốc, hóa chất, VTTH] => Tab [BC sử dụng thuốc, hóa chất, VTTH theo nhóm điều trị] => Tab [Theo thành tiền]`: Sửa lỗi sai cột `[Đơn giá]`.
