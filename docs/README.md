@@ -6,6 +6,25 @@
 
 #
 
+## [v.3.25.0509.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32505090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32505090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32505090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Medicine, SecondStore tự thiết kế mẫu Phiếu xuất kho C31 (Thống kê -> Xuất kho -> Khoa phòng)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/195
+
+- Cập nhật đồng bộ cho mẫu C21 và C31
+
+![](https://i.imgur.com/rcmsGtO.png)
+![](https://i.imgur.com/JkCly2f.png)
+<<<<<<< HEAD
+
+## [v.3.25.0509.0]()
+- ✨: Yêu cầu: Medicine, SecondStore tự thiết kế mẫu Phiếu xuất kho C31 (Thống kê -> Xuất kho -> Khoa phòng)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/195
+
+- Cập nhật đồng bộ mẫu C21 và C31
+![](https://i.imgur.com/rcmsGtO.png)
+![](https://i.imgur.com/JkCly2f.png)
+=======
+
 ## [v.3.25.0429.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32504290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32504290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32504290-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32504290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32504290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32504290-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Medicine: Không in - xuất file được Sổ kiểm nhập (IN BB TT22 - Mẫu tự thiết kế) - LOI - dh-issue- #248
 - 🐛:  ***Xử lý nút in trên biên bản kiểm nhập.*** ![](https://i.imgur.com/gQ7AaNF.png)
