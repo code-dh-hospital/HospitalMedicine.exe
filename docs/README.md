@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.25.0829.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Medicine: Không cập nhật VAT khi nhập chứng từ vào danh mục thuốc của Nhà thuốc
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/344
+
+- Theo mô tả : [BO_SUNG_THAM_SO_VA_OPTION_CHO_VAT_NHAP.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_THAM_SO_VA_OPTION_CHO_VAT_NHAP.md)
+
+- Chỉnh thao tác chỉnh sửa thông tin thuốc sẽ lưu thêm dmthuoc.vatnhap nếu có thay đổi
+
+![](https://i.vgy.me/3cBZXy.png)
+
+- Nhập chứng từ kiểm tra theo tham số nhapkho.capnhatvat để cập nhật lại dmkho.vat_nhap và dmthuoc.vatnhap
+
+![](https://i.vgy.me/1LKX9T.png)
+
 ## [v.3.25.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508140-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32508140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng xuất trạm xã (BV Thanh Bình)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/431
