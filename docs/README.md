@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.1014.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510140-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Xuất điều về: In -> chưa chuyển sang mẫu tự thiết kế:
+![](https://lh3.googleusercontent.com/pw/AP1GczMtOjDG64JmLqBuDQACuyRXkLNp9PWgFQxrRRoGN7uTtvV1Cay--noELMSPlZxMw-UDAuSaSo5H0jGNZmSxRcadJeykWZlxsy2VK3xJ3oKT8mYMEsJu09-o2g6M9NqU_xHKUD9pghZeon9_6FkGvYwN=w1021-h717-s-no-gm?authuser=1)
+- 🐛: Sửa lỗi tất cả các mẫu in phiếu xuất mẫu C21, C31 đều chỉ in được 1 thuốc đầu tiên và STT của mẫu C21 bắt đầu bằng số 0:
+![](https://lh3.googleusercontent.com/pw/AP1GczNhC2HygA9a7RHg-mrYVMARwDGlJamGLif-3_UB4GWG0L8YSBsLY1oVnq0DHAFB6Od8B1LUk1x4l6SJfZaKAHFwaqX56-2W8WTighbxiQsbi70GWmepuCLHyv-WzpAkygGm7oVLzhVO3sD0f9oRznqc=w1119-h879-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczPJo2rvs8Y08I58Iw7blr3h4vtZTPO9sKBM1bMEKwwyJKvugLNzUYD2ncXOjUJrJnc0H4zHhO7y-C33QtcsCsVECX1hf3GzOAZOYGc0U0isz2mz7mE94GUYaTRItxpeHFJNyy_tihcrEEE7nMRaeLVj=w1119-h879-s-no-gm?authuser=1)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/263
+
 ## [v.3.25.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510090-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510090-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung các mẫu tự thiết kế.
