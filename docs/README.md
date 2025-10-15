@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.25.1015.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi mẫu in C21, C31 mặc định Tiêu đề cột B thiếu chữ `phẩm chất`: Medicine và SecondStore
+![](https://lh3.googleusercontent.com/pw/AP1GczOsxGd5C4S5anmAfV2bINNHmdWkpBsQ0DBoUepLhr5Z7IJWFH8ozKYZQDhItUUJhtzgH7NGVKmyZfQEe-ENYsbUCHi9sA8EfndH9FN8I39x4ww4GqsWjAMKw6lIzUoBARoGFXlQ61zg1jz2RaqjUdUH=w921-h879-s-no-gm?authuser=1)
+
+- 🐛: Sửa lỗi mẫu in N-HT sẽ báo lỗi ở lần in mẫu hướng thần nếu chọn khoa mà không chọn phiếu xuất cụ thể khi in N-HT ở Xuất tủ trực và Xuất khoa phòng. Medicine và SecondStore
+![](https://lh3.googleusercontent.com/pw/AP1GczOR4UaEDLOWIP967d5osQRFfYcJv8EX1d-C36JZmeFZESGpmYwAibaOhkudfDUHsL-ahCHOZB3wKnk6AYQGxBPQY6Pllgp-T5rHgeSUqdRSxj8MalMeJxZ3KJ_NPlAfr_VYU54kUFbRh5qmf0giu_7a=w1654-h879-s-no-gm?authuser=1)
+
+- 🐛: Sửa lỗi in mẫu C21, C31 trong tổng hợp phiếu lĩnh báo lỗi ở Medicine và SecondStore
+![](https://lh3.googleusercontent.com/pw/AP1GczNdh4WJwR7L9sQqJto7Jeol1Cn11tzgq8XivNT1hYGpIGqKgf8G0dJAnQLmWF-nCSOQZtqfYQbnlOHCwfnMlCLWTMhOgfe4z-hhgNcGOi85mDSzIZWcFDZQCcxXpuMyNFNbynRptOFMQQMxQvdt4yRS=w1649-h879-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczNA9Z8JE0Rayer-CUPBNzTNVw-kHjv1mkT-t2OBTnVw9EEbTyoUo9z5KeLukJVg6LVNFeGqJtqMmk3xspQYzOiRhDaD4QVZQpxR2KG1q7xPIQoGUF4sIuF72YX7tqilD8rGUnDKmc7gEeM1LkPNzh61=w1654-h879-s-no-gm?authuser=1)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/263
+
 ## [v.3.25.1015.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510150-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510150-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi mẫu in C21, C31 mặc định Tiêu đề cột B thiếu chữ `phẩm chất`: Medicine và SecondStore
