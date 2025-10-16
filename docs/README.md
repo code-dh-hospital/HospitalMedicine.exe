@@ -6,6 +6,26 @@
 
 #
 
+## [v.3.25.1016.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi các mẫu in tổng hợp phiếu lĩnh
+=> Tổng hợp phiếu lĩnh chức năng In và In NB khi in phiếu nghiện - hướng thần thì mất tiêu đề cột Tên thuốc,...
+![](https://lh3.googleusercontent.com/pw/AP1GczMoSE7_LF1ruPn9SkYRCG0vvmIlctXZGjJQAYMkFUOUyiYQAV16KnhCRyDt4TUR50pyxa2OnLs1G1ehusvB92hmY9ex7lTJTQVmb661XJmwQOdajmAaZdREd5O-1NyOFIFvGJxbtY-PL_bzi49sMkxJ=w988-h778-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczM3UsYMt_dIDPjR-Nc-uyf1gyb1HLHYAwHq5RxMVWuEphdEnY7d1ipkNPkSAmhbskVQCsongSP69i3KUi8J9oIExxOBzyqWtrfGT_8CnMdb1m5PoA8M-MYgTwjnjMqRzAWc6vpz6seVQZaOeBKC8xtS=w972-h719-s-no-gm?authuser=1)
+
+=> Tổng hợp phiếu lĩnh chức năng In và In NB khi in các mẫu phiếu lĩnh thuốc , nghiện, hướng thần, truyền đạm thì không tìm thấy para ghi số chứng từ thuốc `Từ số ... đến số...`
+![](https://lh3.googleusercontent.com/pw/AP1GczPyVssnSGgsJPnu2M7F4cDiSuapjrC2gK-qLc0VpxD1uO5f052Rh_tmgu4UAG81VxWGf1iQbCZ8Dec0tEDfYGAi8PCkJqyY_UxvdJC0_oAZjf9yFFg9FFyJwU4zPrUMyfYxbxHDfbEeB6M7ztpHK9fC=w972-h730-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczMUkMYnRQ0PpVvTkb_hu_IRGoL-gyICmG0jKUAT6SWoc9AXX2IHdE6kF5ooKklyZTrPGa8OWEvDy-_8D-tkweR_OY1eUJJjzmXIM-vvYcL_k3r8Vd92LgzDXxt5K9uBkUGLgtzMEsDFuKECMt8Jkard=w1083-h879-s-no-gm?authuser=1)
+
+=> Mẫu C21 và C31 thiếu tên các group hàng hóa như thuốc, VTYT,... và chưa có tổng từng group, qua trang thì có thể bị lỗi , thiếu ngày tháng năm ở phần ký tên (lấy ngày lập phiếu)
+![](https://lh3.googleusercontent.com/pw/AP1GczO-Fvl82Gab_RMjmfuk-OhwYo5ghYTocQRXhKyBLaxm9FyRGpSNehy2AFodZOrcDl52FIOH83XbJrPwM_tcZcVRLTWM06PUkhXxzcsYAdPmd-ojZ_Qu1d-OyhZBVzAQdin1yEYUdVFO8r1Cqu8O6p1i=w1017-h685-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczMqam9hPPrFp9WE4TtgZXKkuGUa5a-2gjqoWOuK91aGRAx0gyWM2Kd8oyNJQgjIcwVjuxxYcsXhrHWbzgLDDiBsWFVBUR_vVL4HiHU_q9aTYq75M7Y9z1ceu9fGeQNdBrweLFPD9Y7dtuobr9Z4lf57=w1030-h685-s-no-gm?authuser=1)
+
+=> Mẫu nghiện , hướng thần, truyền đạm , phiếu lĩnh thuốc,... khác tiêu đề ký tên và cách lấy ngày ký (phần mềm cũ lấy ngày lập phiếu phần mềm mới lấy ngày hiện tại), Tên khoa, mẫu mới thiếu tổng chi phí,....
+`Phản hồi: Cách làm này đối với mẫu không tự thiết được. Mẫu tự thiết kế đã có footer chữ ký sẵn, đơn vị cần thì có thể tự điều chỉnh lại.`
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/263
+
 ## [v.3.25.1015.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510151-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi mẫu in C21, C31 mặc định Tiêu đề cột B thiếu chữ `phẩm chất`: Medicine và SecondStore
