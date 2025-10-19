@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.25.1019.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510190-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510190-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510190-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Mẫu nghiện, hướng thần không lấy được số tiền Tổng cộng
+![](https://lh3.googleusercontent.com/pw/AP1GczPNf2XKTVsSDZ2xGfaHd5ShFdDGpBaX4na-sWkuU0RhsrbZOECl2V_qceeNftLYcEBXPPPRu2s0Wdtt3fXZK0s_lNkoA8lD1i3FcXKWICNhKsuDSghlQ4A2nDgNYB-1U4G9OTOtgENTClRVH22YHU6l=w1017-h801-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczM0FFoQC0ku5mSGSb8y9Rk7tof_kx9eKQPw_w3R9HGd-TS_h3zGJVlVCyzvNE4CIlwThYPRL_P-6sjBMCFbgrHDOQ1dcR_HuR3xXKvrruR49OOcW1tIMnqbmbfwoxLIe5OqevYgOg783hDq0wDjTP7J=w1015-h768-s-no-gm?authuser=1)
+
+- 🐛: Mẫu C21, C31 thiếu Tổng số khoản
+![](https://lh3.googleusercontent.com/pw/AP1GczN-weuh_5EE2jl4C5MgtEDnKiCuuZ3EziN-wLYrvij48qiuOTBS4yLHPcupDa5PkU2FpSZPwpWk8pjF96jaNAPp0n1riYwwfpqtnyY25LG072e_weimEF-XSqeh_CsFiJRS6B2j5YFRdPw7EeoQKR5w=w1008-h641-s-no-gm?authuser=1)
+![](https://lh3.googleusercontent.com/pw/AP1GczPzJ7kygLGYY5zGBw9wkf4Ci_mxjFd3Tel_JWn50q-7JQeMdE7vqHSZ54rm1P44uCWSK3gMLoXfG6IEA-_c4hD1VY-KMzOO_6IRiVMqeoZa3k9w5WkpHQfsyHN2_lJQp6qCn6VAWOODzF76wmakbDkc=w1019-h652-s-no-gm?authuser=1)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/263
+
 ## [v.3.25.1016.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32510160-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi các mẫu in tổng hợp phiếu lĩnh
