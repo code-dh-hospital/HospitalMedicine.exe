@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1114.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511140-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng in tem tại form báo cáo tồn kho.
+![](https://lh3.googleusercontent.com/pw/AP1GczPJjcV-2i6j4ZAe2M2Tf8zTsRYBg8_L__lH_88Fr8vw-IVqx1g0t8_xwTgp0Fjr-cfpw5cvFk6FJESRbmLImx2fCYeAUvH1K05f59TgrxtsVGBC31bhEcXYUzr-1uBTRvVLsYmcugC0-sNbBXix2zQi=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOhFKX6hRpHs9RmhoChSZP3PylKqb8Ck9O03oYBHKCLKjO0q_ko78S3105GkHlvbkAfK7kFwImJ5UOsab1w59kCKyE4Nq2Ai1erh3h6d6tNC5uAjkWuYskRRgOOy7p7IDi0DYX7yvxrxmfUHNaQ9l68=w894-h137-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/564
+
 ## [v.3.25.1113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511130-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511130-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng cảnh báo phiếu xuất chưa được nhận (nếu có) khi xem báo cáo nhập xuất tồn tổng hợp.
