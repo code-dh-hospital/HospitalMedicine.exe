@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32512090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32512090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32512090-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi xuất hư hỏng thiếu thông tin mẫu tự thiết kế nội bộ (điều chỉnh mẫu lại theo như hình bên dưới).
+![](https://lh3.googleusercontent.com/pw/AP1GczOeUmQ0-e-RzkfycsmgDB_pqXKYPe-eKq5JE8ej7h35UmXO7Y-Qv67JVZvqSBBTzSmV_otwmib1HM6OwHijK3jr0M65DJTGEX4vALmjzyznsxPIfiejVFJCWpMihFfIN7jnUbtSsdyf0It5TQTl_fHm=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczONtvtO3A491suNAgZk855w_AyU57oGQf6GZQNNyNUBRrPCUZfeR23lePs523KaCsdJ_2DqzkVVonPVVjfgnLjWW4L9eFAoFUJDsYIZ1_C-pgdhWX346I-SNoePdmeZM44SiCTt6TuF68CX48-pxpkQ=w1020-h728-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/657
+
 ## [v.3.25.1118.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511180-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32511180-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Form tồn kho Frozen tới cột tên hàng hóa.
