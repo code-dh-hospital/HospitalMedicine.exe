@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0111.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601110-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng không chọn loại toa thuốc trên danh mục thuốc.
+![](https://lh3.googleusercontent.com/pw/AP1GczPP-GpNDS0NOPOYv081KRN0aqJGAeyq2vKgW5C52Hn5sc0FZs8rpn2yijT872S3vzZbqNpPYA5uIMbfgIDAiVFwf87ubKrYxSXQi9lLJaWzoUmvb14Jq2Wapj74trAEuLlhOoTYmsPMxmDZQRnbRZ5l=w1314-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/595
+
 ## [v.3.26.0109.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601091-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601091-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601091-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601091-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cập nhật tiêu đề `Tách riêng mỗi thuốc 1 toa` -> `Tách toa`.
