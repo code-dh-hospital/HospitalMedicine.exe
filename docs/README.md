@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0318.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Nhập chứng từ không lưu được khi chỉnh giá xuất.
+![](https://lh3.googleusercontent.com/pw/AP1GczPH59sDXiWNaXA4XUvIOU7YAspC0ZPr6Pn-ErVQax7l4ZzSQbNEOnm1PcXROIUZq5nopStgANVWHNXo4iLR6IJ1pGez75TlLIBJcnnJeEp3VhldyLDGkx3PmZf90RKPDk7wgEDC8HvFHU9pflRqBVoW=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczODylJhis1_1Y-RbZqMfb8LCgvlwW6sZw1G0I0uolV3EPIJnVgTx5j9BuDBO9389IHaJP_kJBA5QtPUoBvEM8Df1jHXIQaGe6oLFWYsGRSj1ERkLU87qGBoEhRLZMyFnH3UKkNHBeJjTA6_ba_3smNh=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/792
+
 ## [v.3.26.0130.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601300-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32601300-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Khi chọn thuốc nhập số lượng tối đa nhưng không check Giới tính báo lỗi
 ![](https://i.vgy.me/IZQJQX.gif)
