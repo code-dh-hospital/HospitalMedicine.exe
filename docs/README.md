@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0429.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Medicine: Lỗi đồng bộ chứng từ nhập nhà thuốc lên Misa (Phúc Gia Khang)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/835
+
+- 📕: Nguyên nhân : Đồng bộ hàng hoá thiếu trước khi gửi chứng từ nhập kho
+- 📕: Xử lý : Do ban đầu hệ thống MISA hạn chế lượt gọi kết nối nên thống bỏ bước đồng bộ hàng hoá trước khi gửi chứng từ nhập kho.
+=> Mở lại chức năng đồng bộ hàng hoá trước khi gửi chứng từ nhập kho. Nếu sử dụng chức năng đồng bộ hàng loạt thì đồng bộ mỗi 3 chứng từ sẽ delay 2 giây 
+
+![](https://i.vgy.me/qJAZm8.png)
+
 ## [v.3.26.0318.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32603180-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi Nhập chứng từ không lưu được khi chỉnh giá xuất.
