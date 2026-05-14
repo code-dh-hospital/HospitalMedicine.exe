@@ -6,6 +6,48 @@
 
 #
 
+## [v.3.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Bổ sung màu đối thuốc cần lưu ý thi ra toa #752
+	
+	- Cập nhật: MEDICINE
+		- Cập nhật script:
+
+	![](https://i.vgy.me/QTY4zE.png)
+
+		```sql
+		DO $$
+		BEGIN
+			IF NOT EXISTS (
+				SELECT 1
+				FROM information_schema.columns
+				WHERE table_schema = 'current'
+				  AND table_name = 'dmthuoc'
+				  AND column_name = 'color_luuy'
+			) THEN
+				ALTER TABLE current.dmthuoc
+				ADD COLUMN color_luuy VARCHAR;
+			END IF;
+			COMMENT ON COLUMN current.dmthuoc.color_luuy
+			IS 'Màu thuốc cần lưu ý khi ra toa';
+		END
+		$$;
+		```
+	- Mở danh mục thuốc: menu `Danh mục/Thuốc, hóa chất, VTTH, .../Thuốc`
+
+	- Thao tác cập nhật thêm màu: `Chỉnh` chọn màu cần thêm --> `Lưu`
+
+	![](https://i.vgy.me/8SV658.png)
+
+	- Thao tác bỏ thêm màu: `Chỉnh` chọn màu `Transparent` --> `Lưu`
+
+	![](https://i.vgy.me/nGK9Wd.png)
+
+	Lưu ý: 
+		- Thao tác thêm màu sẽ cập nhật lại tất cả thuốc đã thêm màu trước đó (nếu có)
+		- Thao tác bỏ thêm màu: chỉ bỏ màu của thuốc được chọn
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/752
+
 ## [v.3.26.0429.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32604290-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Medicine: Lỗi đồng bộ chứng từ nhập nhà thuốc lên Misa (Phúc Gia Khang)
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/835
