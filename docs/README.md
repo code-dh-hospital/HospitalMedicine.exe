@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0516.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605160-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Mở rộng số lẻ cho % lợi nhuận Nhà thuốc trong chức năng nhập chứng từ
+- ✨:  ***Thêm tham số áp dụng số lẻ phần trăm lợi nhuận. Giá trị tham số khác 2,3 sẽ là giá trị mặc định là 1***
+- ✨: Thực hiện theo mô tả [mo-ta-thay-doi-nhathuoc-loinhuan-sole.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NGHIEP_VU_KHOA_DUOC/mo-ta-thay-doi-nhathuoc-loinhuan-sole.md)
+![](https://images-worker.tlt31.workers.dev/i/019e2cbf-b68e-7263-a1ed-c4bb3b817846)
+![](https://images-worker.tlt30.workers.dev/i/019e2cc4-0ed7-726f-91bc-7495b0da89da)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/143
+
 ## [v.3.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32605140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Bổ sung màu đối thuốc cần lưu ý thi ra toa #752
 	
