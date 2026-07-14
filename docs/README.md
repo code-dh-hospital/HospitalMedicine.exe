@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Medicine: Thêm danh mục thuốc từ file excel ghi nhận thêm giá trị TT Thầu 4750
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/822
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/NGHIEP_VU_KHOA_DUOC/CAI_TIEN_NGHIEP_VU_XUAT_EXCEL_VA_BO_SUNG_TT_THAU4750_MEDICINE.md
+- 📕: Cải tiến Xuất nhập Excel trên Danh mục thuốc không ràng buộc cài đặt phiên bản Office tương thích và bổ sung cột TT_THAU4750 khi thêm danh mục thuốc mới bằng Excel
+
+![](https://i.vgy.me/PLOc2J.png)
+![](https://i.vgy.me/2ILtLH.png)
+
 ## [v.3.26.0612.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32606120-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32606120-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ báo cáo tồn kho và nhập xuất tồn đến ngày (theo giờ) tại thẻ [Tồn kho 2] và [Nhập xuất tồn 2] theo mô tả [PSTONKHO/Bao-cao-Ton-kho-va-NXT-theo-ngay.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/PSTONKHO/Bao-cao-Ton-kho-va-NXT-theo-ngay.md).
