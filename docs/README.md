@@ -6,6 +6,38 @@
 
 #
 
+## [v.3.26.0720.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607201-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Medicine: Tự động đổi màu thuốc khi người dùng cập nhật thông tin thuốc #924
+	- Cập nhật: 
+	    - Thực hiện kiểm thử để xác định tình trạng phát sinh lỗi.
+	
+	--> Khi chưa chọn mã màu (Emtpy): chức năng chuyển mã màu sang hex ( mặc định hiểu là màu 0,0,0) ==> hex = #000000 (Black)
+    
+    - Cập nhật:
+	--> Khi chưa chọn mã màu (Emtpy) --> set mã màu: #FFFFFF (Transparent)	
+
+	![](https://i.vgy.me/8KOgoh.png)
+
+	![](https://i.vgy.me/Jpt0Jy.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/924
+
+## [v.3.26.0720.0]()
+- 🐛: Lỗi - Medicine: Tự động đổi màu thuốc khi người dùng cập nhật thông tin thuốc #924
+	- Cập nhật: 
+	    - Thực hiện kiểm thử để xác định tình trạng phát sinh lỗi.
+	
+	--> Khi chưa chọn mã màu (Emtpy): chức năng chuyển mã màu sang hex ( mặc định hiểu là màu 0,0,0) ==> hex = #000000 (Black)
+    
+    - Cập nhật:
+	--> Khi chưa chọn mã màu (Emtpy) --> set mã màu: #FFFFFF (Transparent)	
+
+	![](https://i.vgy.me/8KOgoh.png)
+
+	![](https://i.vgy.me/Jpt0Jy.gif)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/924
+
 ## [v.3.26.0714.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32607140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Medicine: Thêm danh mục thuốc từ file excel ghi nhận thêm giá trị TT Thầu 4750
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/822
