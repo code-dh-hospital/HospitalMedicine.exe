@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0911.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp cấu hình BuildZip|AnyCPU (xuất bin\BuildZip) + Pre/PostBuildEvent gọi visualstudio-external-tool.js; runtime tải binary qua AInstallModule.loadClient (tự dùng remote DB khi bật EOptionAdmin, fallback {DB}_app)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/845
+- 📕: Phân hệ tải binary cùng nguồn remote với DH.ModuleClient, hết lệch phiên bản khi bật CSDL cập nhật riêng
+- Thực hiện theo mô tả [Mô tả bổ sung cấu hình AppUpdate Postgres App tách biệt DB HIS chính](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Quan-tri-Admin/Mo-ta-bo-sung-cau-hinh-appupdate-postgres-app-tru-db-his-chinh.md)
+
+![](https://images-worker.tlt11.workers.dev/i/01a08e79-8ad8-7ce3-944c-604c313576cc)
+![](https://images-worker.tlt10.workers.dev/i/01a08e79-d157-7b05-94ff-19611903d50b)
+![](https://images-worker.tlt02.workers.dev/i/01a08f3b-912b-7723-8dc2-6350fb2e951c)
+
+> ⚠️ **Lộ trình triển khai an toàn:** bản client cũ không biết CSDL remote (chỉ đọc `{DB}_app` local). Phải publish bản mới bằng **cách cũ** cho mọi trạm xong, rồi mới tạo/bật remote (`EOptionAdmin.Enabled = true`), sau đó mới publish tiếp lên remote. Không bật remote khi còn trạm cũ.
+
 ## [v.3.26.0907.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609070-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32609070-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: LỖI - MEDICINE - Đồng bộ Misa Chứng từ nhập kho lỗi
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/983
