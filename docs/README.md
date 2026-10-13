@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1013.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosMed.Core] Bổ sung hiển thị và lọc theo 2 cột Hoạt chất chính (tenhc) và Hoạt chất phụ (tenhcp) trên 2 lưới tại tab Tương tác thuốc - Cấp độ trong FrmDmThuoc.
+- 🐛: [HosMed.Core] Khắc phục lỗi InvalidOperationException khi chuyển tab và reset sạch sẽ bộ lọc tìm kiếm trong FrmDmThuoc.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/957
+- 📗: [HosMed.Core] Truy vấn dữ liệu hoạt chất tenhc, tenhcp từ bảng current.dmthuoc.
+- 📕: Vào Danh mục -> Danh mục thuốc -> Tab Tương tác thuốc - Cấp độ.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-957/debug-image-medicine-frmdmthuoc-tuongtacthuoc-hoatchat.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-957/debug-image-medicine-frmdmthuoc-tuongtacthuoc-hoatchat.gif)
+
 ## [v.3.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610130-NasDHSolutions.json)</sup></sup></sub> <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalMedicineexe%2F32610130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HosMed.Core] Bổ sung tự động co giãn cột (ColumnAutoResize = true) trên lưới tương tác thuốc và reset bộ lọc tìm kiếm FilterRow khi đổi thuốc trong FrmDmThuoc.
 - 🐛: [HosMed.Core] Khắc phục khoảng trống thừa bên phải lưới và tồn lưu filter khi chuyển thuốc ở tab Tương tác thuốc - Cấp độ.
